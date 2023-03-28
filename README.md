@@ -1,7 +1,7 @@
 # Network-Classification-Tool
 
 ## Summary
-This was a Smart India Hackathon 2017 grand finale project done at Ahmedabad under "[Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/)". The real time classification of incoming traffic to web servers using deep packet inspection and Machine Learning algorithms. (Python, PHP, JavaScript, Wireshark, C, LibPcap)
+This was a **Smart India Hackathon 2017 grand finale project** done at Ahmedabad under "[Indian Space Research Organisation (ISRO)](https://www.isro.gov.in/)". The real time classification of incoming traffic to web servers using deep packet inspection and Machine Learning algorithms. (Python, PHP, JavaScript, Wireshark, C, LibPcap)
 
 Finale round at SIH
 
